@@ -5,10 +5,15 @@ A Flask-based web application that helps **recruiters** rank resumes against job
 # Features
 
 🌐 Web UI with Recruiter & Job Seeker sections.
+
 📑 Recruiter: Upload job description + multiple resumes → get ranked list (similarity score, extracted skills, names & emails).
+
 🙋 Job Seeker: Upload resume + job description → see present & missing skills.
+
 📊 CSV Export: Recruiter can download ranked results.
+
 🔍 Uses spaCy NER for name/email extraction and TF-IDF + cosine similarity for resume-job matching.
+
 🛠️ Predefined required skills for roles: Web Developer, Data Scientist, Software Engineer.
 
 # Tech Stack
