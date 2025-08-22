@@ -29,6 +29,9 @@ Werkzeug → Secure file handling
 # Usage
 
 Navigate to http://127.0.0.1:5000/ in your browser.
+
 Choose Recruiter or Job Seeker.
+
 Recruiter uploads job description + resumes → gets ranked results + CSV download.
+
 Job Seeker uploads resume + job description → gets skill gap analysis.
