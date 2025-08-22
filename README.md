@@ -19,11 +19,17 @@ A Flask-based web application that helps **recruiters** rank resumes against job
 # Tech Stack
 
 Backend: Flask (Python)
+
 Frontend: HTML, CSS (templates in /templates)
+
 Libraries:
+
 spaCy → Named Entity Recognition
+
 PyPDF2 → Resume text extraction
+
 scikit-learn → TF-IDF, cosine similarity
+
 Werkzeug → Secure file handling
 
 # Usage
